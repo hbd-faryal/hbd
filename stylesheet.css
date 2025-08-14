@@ -1542,6 +1542,8 @@ audio {
 	display: none;
 	justify-items: center;
 	justify-self: center;
+	position: absolute;
+    bottom: 30%;
 }
 .message p {
 	font-family: 'Signika', sans-serif;

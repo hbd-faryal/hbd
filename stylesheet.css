@@ -1536,6 +1536,7 @@ audio {
 	margin-top: 200px;
 	display: none;
 	justify-items: center;
+	justify-self: center;
 }
 .message p {
 	font-family: 'Signika', sans-serif;

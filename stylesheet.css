@@ -10,6 +10,8 @@ body {
 }
 .container {
 	display: none;
+	position: relative;
+    height: 100vh;
 }
 .peach {
 	background-color: #FFDAB9;

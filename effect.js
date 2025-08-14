@@ -221,5 +221,6 @@ $('document').ready(function(){
 		// When the button is clicked, add the 'cut' class to each cake layer
 		$('.cake .layer').addClass('cut');
 		$('.fuego').fadeOut('slow');
+		$('.velas').fadeOut('slow');
 	});
 });

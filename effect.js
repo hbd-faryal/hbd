@@ -222,5 +222,6 @@ $('document').ready(function(){
 		$('.cake .layer').addClass('cut');
 		$('.fuego').fadeOut('slow');
 		$('.velas').fadeOut('slow');
+		$('#cake_cut').fadeOut('slow');
 	});
 });

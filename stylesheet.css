@@ -1316,6 +1316,7 @@ audio {
   top: -32px;
   left: 50%;
   margin-left: -10px;
+	filter: contrast(0.2) saturate(85);
   width: 20px;
   height: 37.5px;
 }
